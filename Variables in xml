@@ -1,4 +1,4 @@
-/*you can't directly use var in json/xml in request body
+/*you can't directly use var in xml in request body
 so you need to build your whole document first and set it in an env variable*/
 
 const dateNow = new Date();
